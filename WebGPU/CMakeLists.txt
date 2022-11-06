@@ -1,0 +1,2 @@
+include(WebGPUConfig.cmake)
+set(WebGPU_DIR ${CMAKE_CURRENT_LIST_DIR} PARENT_SCOPE)
